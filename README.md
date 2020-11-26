@@ -9,3 +9,4 @@ Este repositorio fue echo en la clase de Freddy en Platzi "GIT Y GITHUB"
 - Trucos muy locos del profesor
 - las personalidades multiples de Freddy.
 - Creado por los del team Platzi
+- sirve para mac, windows
